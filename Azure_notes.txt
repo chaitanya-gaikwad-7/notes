@@ -1,4 +1,4 @@
-# Cloud model comparison
+# Cloud models -
 1. Public cloud
 	No capital expenditures to scale up.
 	Applications can be quickly provisioned and deprovisioned.
@@ -11,3 +11,12 @@
 	Provides the most flexibility.
 	Organizations determine where to run their applications.
 	Organizations control security, compliance, or legal requirements.
+
+# Cloud computing Advantages
+1. High Availability
+2. Scalability
+3. Elasticity
+4. Agility
+5. Geo-Distribution
+6. Disaster Recovery
+
