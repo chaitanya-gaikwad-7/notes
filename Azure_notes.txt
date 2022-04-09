@@ -1,13 +1,13 @@
-Cloud model comparison
-Public cloud
+# Cloud model comparison
+1. Public cloud
 	No capital expenditures to scale up.
 	Applications can be quickly provisioned and deprovisioned.
 	Organizations pay only for what they use.
-Private cloud
+2. Private cloud
 	Hardware must be purchased for start-up and maintenance.
 	Organizations have complete control over resources and security.
 	Organizations are responsible for hardware maintenance and updates.
-Hybrid cloud
+3. Hybrid cloud
 	Provides the most flexibility.
 	Organizations determine where to run their applications.
 	Organizations control security, compliance, or legal requirements.
