@@ -21,5 +21,7 @@
 6. Disaster Recovery
 
 # Capital expenses vs. operating expenses -
-1. Capital Expenditure (CapEx) is the up-front spending of money on physical infrastructure, and then deducting that up-front expense over time. The up-front cost from CapEx has a value that reduces over time.
-2. Operational Expenditure (OpEx) is spending money on services or products now, and being billed for them now. You can deduct this expense in the same year you spend it. There is no up-front cost, as you pay for a service or product as you use it.
+1. Capital Expenditure (CapEx) is the up-front spending of money on physical infrastructure, and then deducting that up-front expense over time. 
+ The up-front cost from CapEx has a value that reduces over time.
+2. Operational Expenditure (OpEx) is spending money on services or products now, and being billed for them now. 
+ You can deduct this expense in the same year you spend it. There is no up-front cost, as you pay for a service or product as you use it.
